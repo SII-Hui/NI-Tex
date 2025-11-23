@@ -2,9 +2,7 @@
 
 ## Overview
 ![NI-Tex Teaser](asset/Teaser.png)
-**NI-Tex** is a cutting-edge framework designed to generate high-quality, physically-based rendering (PBR) textures for garments, regardless of the geometric or topological inconsistencies between input images and 3D garment meshes. It uses advanced data augmentation techniques like *Nano Banana* for topology editing and iterative baking with uncertainty quantification for seamless texture generation. 
-
-Our approach enables high robustness and versatility in producing accurate textures even in challenging scenarios involving strong image-garment mismatches, which are common in 3D garment design applications like virtual try-ons and digital fashion. 🙌🙌🙌
+**NI-Tex** introduces a novel approach to non-isometric garment texture generation by utilizing a physically simulated dataset, 3D Garment Videos, which provides consistent geometry and material supervision across diverse deformations. The method employs *Nano Banana* for high-quality non-isometric image editing, enabling reliable cross-topology texture generation. Additionally, an iterative baking process guided by uncertainty-driven view selection merges multi-view predictions into seamless, production-ready PBR textures. This results in versatile, spatially aligned garment materials, advancing industry-level 3D garment design. 🙌🙌🙌
 
 ---
 
