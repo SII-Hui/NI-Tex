@@ -12,7 +12,7 @@
 - [ ] 📂 Training Dataset
 - [ ] ⚙️ Training Code
 
-⭐ We will open-source the Inference Code and Pretrained Models within 1 month after the paper is accepted, and the Training Dataset and Training Code within 3 months.
+⭐ We will open-source the Inference Code and Model Checkpoints within 4 months, and the Training Dataset and Training Code within 6 months.
 
 ---
 
