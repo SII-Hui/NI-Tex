@@ -16,8 +16,8 @@
 
 ---
 
-## Get Started with NI-Tex
-
+## Get Started with NI-Tex (🚀 coming soon)
+![NI-Tex Wait](asset/waiting.gif) 
 
 
 ## Citation
