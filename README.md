@@ -17,3 +17,19 @@
 ---
 
 ## Get Started with NI-Tex
+
+
+
+## Citation
+If you find this repository useful in your project, please cite the following work. :)
+```
+@misc{shan2025nitexnonisometricimagebasedgarment,
+title={NI-Tex: Non-isometric Image-based Garment Texture Generation},
+author={Hui Shan and Ming Li and Haitao Yang and Kai Zheng and Sizhe Zheng and Yanwei Fu and Xiangru Huang},
+year={2025},
+eprint={2511.18765},
+archivePrefix={arXiv},
+primaryClass={cs.CV},
+url={https://arxiv.org/abs/2511.18765}
+}
+```
