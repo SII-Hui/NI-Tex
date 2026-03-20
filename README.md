@@ -14,10 +14,10 @@
 ---
 
 ## TODO List
-- ✅ 🚀 Inference Code
-- ✅ 📥 Model Checkpoints
+- [x] 🚀 Inference Code
+- [x] 📥 Model Checkpoints
 - [ ] 📂 Training Dataset
-- ✅ ⚙️ Training Code
+- [x] ⚙️ Training Code
 
 
 ---
@@ -86,7 +86,7 @@ We edited the BEDLAM data using **Nano Banana** and rendered this massive datase
 
 To support future research, we plan to open-source our **entire training dataset** at [Hugging Face: NI-Tex Dataset](https://huggingface.co/datasets/Hui-S-02/NI-Tex)(to our knowledge, the first of its kind). As data preparation takes time, we will release it in the following order:
 
-- ✅ 1. `Bedlam_edited_by_NanoBanana` 
+- [x] 1. `Bedlam_edited_by_NanoBanana` 
 - [ ] 2. `BEDLAM` (Rendered)
 - [ ] 3. `Objaverse` (Rendered)
 - [ ] 4. `Texverse` (Rendered)
