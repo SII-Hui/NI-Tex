@@ -1,6 +1,6 @@
 # NI-Tex: Non-isometric Image-based Garment Texture Generation
 
-<div align="Left">
+<div align="Middle">
   <a href=https://arxiv.org/abs/2511.18765 target="_blank"><img src=https://img.shields.io/badge/Report-b5212f.svg?logo=arxiv height=22px></a>
   <a href=https://huggingface.co/Hui-S-02/NI-Tex target="_blank"><img src=https://img.shields.io/badge/%F0%9F%A4%97%20Models-d96902.svg height=22px></a>
   <a href="https://huggingface.co/datasets/Hui-S-02/NI-Tex/tree/main" target="_blank">
