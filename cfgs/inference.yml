@@ -1,0 +1,16 @@
+model:
+  target: hunyuanpaintpbr.unet.model.HunyuanPaint
+  params:
+    num_view: 10
+    view_size: 512
+    drop_cond_prob: 0
+    noise_in_channels: 12
+    stable_diffusion_config:
+      pretrained_model_name_or_path: stabilityai/stable-diffusion-2-1
+      custom_pipeline: ./hunyuanpaintpbr
+
+
+
+batch_size: 1
+num_workers: 4
+resume_from: "MODEL_CHECKPOINTS/step_100K.ckpt"
