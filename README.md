@@ -68,6 +68,7 @@ asset/
 
 ```
 
+
 **⚙️ Configuration & Tuning:**
 
 * **`--orth_scale`**: Controls the Stage 1 object size, which directly affects Stage 2 multi-view generation. Fine-tune this value for optimal results.
@@ -97,6 +98,15 @@ To support future research, we plan to open-source our **entire training dataset
 python train.py --base cfgs/hunyuan-paint-pbr.yaml --name overfit --logdir training_logs/ --gpus 0,
 ```
 
+---
+## 🎥 Video Demo
+
+<img src="asset/VideoDemo/video_1.gif" width="45%">
+<img src="asset/VideoDemo/video_2.gif" width="45%">
+<img src="asset/VideoDemo/video_3.gif" width="45%">
+<img src="asset/VideoDemo/video_4.gif" width="45%">
+
+---
 ## 💖 Acknowledgement
 We have intensively borrow codes and dataset from the following repositories. Many thanks to the authors for sharing.
 - 🔗 [Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1)
