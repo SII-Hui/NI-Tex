@@ -101,10 +101,10 @@ python train.py --base cfgs/hunyuan-paint-pbr.yaml --name overfit --logdir train
 ---
 ## 🎥 Video Demo
 
-<img src="asset/VideoDemo/video_1.gif" width="45%">
-<img src="asset/VideoDemo/video_2.gif" width="45%">
-<img src="asset/VideoDemo/video_3.gif" width="45%">
-<img src="asset/VideoDemo/video_4.gif" width="45%">
+<img src="asset/VideoDemo/video_1.gif" width="35%">
+<img src="asset/VideoDemo/video_2.gif" width="35%">
+<img src="asset/VideoDemo/video_3.gif" width="35%">
+<img src="asset/VideoDemo/video_4.gif" width="35%">
 
 ---
 ## 💖 Acknowledgement
