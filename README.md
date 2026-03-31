@@ -16,7 +16,7 @@
 ## 🎯 TODO List
 - [x] 🚀 Inference Code
 - [x] 📥 Model Checkpoints
-- [ ] 📂 Training Dataset
+- [x] 📂 Training Dataset
 - [x] 🏋️‍♂️ Training Code
 
 
