@@ -89,8 +89,8 @@ To support future research, we plan to open-source our **entire training dataset
 
 - [x] 1. `Bedlam_edited_by_NanoBanana` ✨
 - [x] 2. `BEDLAM` (Rendered) 👕
-- [ ] 3. `Texverse` (Rendered) 🌍
-- [ ] 4. `Objaverse` (Rendered) 🌍
+- [x] 3. `Texverse` (Rendered) 🌍
+- [x] 4. `Objaverse` (Rendered) 🌍
 ---
 ### 🏋️‍♂️ Training Code
 
